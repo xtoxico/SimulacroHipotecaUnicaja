@@ -1,0 +1,1582 @@
+[
+  {
+    "Año": 2025,
+    "Mes": "Abril",
+    "Valor": "2,215"
+  },
+  {
+    "Año": 2025,
+    "Mes": "Marzo",
+    "Valor": "2,398"
+  },
+  {
+    "Año": 2025,
+    "Mes": "Febrero",
+    "Valor": "2,402"
+  },
+  {
+    "Año": 2025,
+    "Mes": "Enero",
+    "Valor": "2,526"
+  },
+  {
+    "Año": 2024,
+    "Mes": "Diciembre",
+    "Valor": "2,433"
+  },
+  {
+    "Año": 2024,
+    "Mes": "Noviembre",
+    "Valor": "2,506"
+  },
+  {
+    "Año": 2024,
+    "Mes": "Octubre",
+    "Valor": "2,686"
+  },
+  {
+    "Año": 2024,
+    "Mes": "Septiembre",
+    "Valor": "2,94"
+  },
+  {
+    "Año": 2024,
+    "Mes": "Agosto",
+    "Valor": "3,169"
+  },
+  {
+    "Año": 2024,
+    "Mes": "Julio",
+    "Valor": "3,526"
+  },
+  {
+    "Año": 2024,
+    "Mes": "Junio",
+    "Valor": "3,65"
+  },
+  {
+    "Año": 2024,
+    "Mes": "Mayo",
+    "Valor": "3,68"
+  },
+  {
+    "Año": 2024,
+    "Mes": "Abril",
+    "Valor": "3,702"
+  },
+  {
+    "Año": 2024,
+    "Mes": "Marzo",
+    "Valor": "3,716"
+  },
+  {
+    "Año": 2024,
+    "Mes": "Febrero",
+    "Valor": "3,671"
+  },
+  {
+    "Año": 2024,
+    "Mes": "Enero",
+    "Valor": "3,609"
+  },
+  {
+    "Año": 2023,
+    "Mes": "Diciembre",
+    "Valor": "3,679"
+  },
+  {
+    "Año": 2023,
+    "Mes": "Noviembre",
+    "Valor": "4,022"
+  },
+  {
+    "Año": 2023,
+    "Mes": "Octubre",
+    "Valor": "4,16"
+  },
+  {
+    "Año": 2023,
+    "Mes": "Septiembre",
+    "Valor": "4,149"
+  },
+  {
+    "Año": 2023,
+    "Mes": "Agosto",
+    "Valor": "4,073"
+  },
+  {
+    "Año": 2023,
+    "Mes": "Julio",
+    "Valor": "4,149"
+  },
+  {
+    "Año": 2023,
+    "Mes": "Junio",
+    "Valor": "4,007"
+  },
+  {
+    "Año": 2023,
+    "Mes": "Mayo",
+    "Valor": "3,862"
+  },
+  {
+    "Año": 2023,
+    "Mes": "Abril",
+    "Valor": "3,757"
+  },
+  {
+    "Año": 2023,
+    "Mes": "Marzo",
+    "Valor": "3,647"
+  },
+  {
+    "Año": 2023,
+    "Mes": "Febrero",
+    "Valor": "3,534"
+  },
+  {
+    "Año": 2023,
+    "Mes": "Enero",
+    "Valor": "3,337"
+  },
+  {
+    "Año": 2022,
+    "Mes": "Diciembre",
+    "Valor": "3,018"
+  },
+  {
+    "Año": 2022,
+    "Mes": "Noviembre",
+    "Valor": "2,828"
+  },
+  {
+    "Año": 2022,
+    "Mes": "Octubre",
+    "Valor": "2,629"
+  },
+  {
+    "Año": 2022,
+    "Mes": "Septiembre",
+    "Valor": "2,233"
+  },
+  {
+    "Año": 2022,
+    "Mes": "Agosto",
+    "Valor": "1,249"
+  },
+  {
+    "Año": 2022,
+    "Mes": "Julio",
+    "Valor": "0,992"
+  },
+  {
+    "Año": 2022,
+    "Mes": "Junio",
+    "Valor": "0,852"
+  },
+  {
+    "Año": 2022,
+    "Mes": "Mayo",
+    "Valor": "0,287"
+  },
+  {
+    "Año": 2022,
+    "Mes": "Abril",
+    "Valor": "0,013"
+  },
+  {
+    "Año": 2022,
+    "Mes": "Marzo",
+    "Valor": "-0,237"
+  },
+  {
+    "Año": 2022,
+    "Mes": "Febrero",
+    "Valor": "-0,335"
+  },
+  {
+    "Año": 2022,
+    "Mes": "Enero",
+    "Valor": "-0,477"
+  },
+  {
+    "Año": 2021,
+    "Mes": "Diciembre",
+    "Valor": "-0,502"
+  },
+  {
+    "Año": 2021,
+    "Mes": "Noviembre",
+    "Valor": "-0,487"
+  },
+  {
+    "Año": 2021,
+    "Mes": "Octubre",
+    "Valor": "-0,477"
+  },
+  {
+    "Año": 2021,
+    "Mes": "Septiembre",
+    "Valor": "-0,492"
+  },
+  {
+    "Año": 2021,
+    "Mes": "Agosto",
+    "Valor": "-0,498"
+  },
+  {
+    "Año": 2021,
+    "Mes": "Julio",
+    "Valor": "-0,491"
+  },
+  {
+    "Año": 2021,
+    "Mes": "Junio",
+    "Valor": "-0,484"
+  },
+  {
+    "Año": 2021,
+    "Mes": "Mayo",
+    "Valor": "-0,481"
+  },
+  {
+    "Año": 2021,
+    "Mes": "Abril",
+    "Valor": "-0,484"
+  },
+  {
+    "Año": 2021,
+    "Mes": "Marzo",
+    "Valor": "-0,487"
+  },
+  {
+    "Año": 2021,
+    "Mes": "Febrero",
+    "Valor": "-0,501"
+  },
+  {
+    "Año": 2021,
+    "Mes": "Enero",
+    "Valor": "-0,505"
+  },
+  {
+    "Año": 2020,
+    "Mes": "Diciembre",
+    "Valor": "-0,497"
+  },
+  {
+    "Año": 2020,
+    "Mes": "Noviembre",
+    "Valor": "-0,481"
+  },
+  {
+    "Año": 2020,
+    "Mes": "Octubre",
+    "Valor": "-0,466"
+  },
+  {
+    "Año": 2020,
+    "Mes": "Septiembre",
+    "Valor": "-0,415"
+  },
+  {
+    "Año": 2020,
+    "Mes": "Agosto",
+    "Valor": "-0,359"
+  },
+  {
+    "Año": 2020,
+    "Mes": "Julio",
+    "Valor": "-0,279"
+  },
+  {
+    "Año": 2020,
+    "Mes": "Junio",
+    "Valor": "-0,147"
+  },
+  {
+    "Año": 2020,
+    "Mes": "Mayo",
+    "Valor": "-0,081"
+  },
+  {
+    "Año": 2020,
+    "Mes": "Abril",
+    "Valor": "-0,108"
+  },
+  {
+    "Año": 2020,
+    "Mes": "Marzo",
+    "Valor": "-0,266"
+  },
+  {
+    "Año": 2020,
+    "Mes": "Febrero",
+    "Valor": "-0,288"
+  },
+  {
+    "Año": 2020,
+    "Mes": "Enero",
+    "Valor": "-0,253"
+  },
+  {
+    "Año": 2019,
+    "Mes": "Diciembre",
+    "Valor": "-0,261"
+  },
+  {
+    "Año": 2019,
+    "Mes": "Noviembre",
+    "Valor": "-0,272"
+  },
+  {
+    "Año": 2019,
+    "Mes": "Octubre",
+    "Valor": "-0,307"
+  },
+  {
+    "Año": 2019,
+    "Mes": "Septiembre",
+    "Valor": "-0,339"
+  },
+  {
+    "Año": 2019,
+    "Mes": "Agosto",
+    "Valor": "-0,355"
+  },
+  {
+    "Año": 2019,
+    "Mes": "Julio",
+    "Valor": "-0,282"
+  },
+  {
+    "Año": 2019,
+    "Mes": "Junio",
+    "Valor": "-0,189"
+  },
+  {
+    "Año": 2019,
+    "Mes": "Mayo",
+    "Valor": "-0,129"
+  },
+  {
+    "Año": 2019,
+    "Mes": "Abril",
+    "Valor": "-0,112"
+  },
+  {
+    "Año": 2019,
+    "Mes": "Marzo",
+    "Valor": "-0,109"
+  },
+  {
+    "Año": 2019,
+    "Mes": "Febrero",
+    "Valor": "-0,108"
+  },
+  {
+    "Año": 2019,
+    "Mes": "Enero",
+    "Valor": "-0,116"
+  },
+  {
+    "Año": 2018,
+    "Mes": "Diciembre",
+    "Valor": "-0,129"
+  },
+  {
+    "Año": 2018,
+    "Mes": "Noviembre",
+    "Valor": "-0,147"
+  },
+  {
+    "Año": 2018,
+    "Mes": "Octubre",
+    "Valor": "-0,154"
+  },
+  {
+    "Año": 2018,
+    "Mes": "Septiembre",
+    "Valor": "-0,166"
+  },
+  {
+    "Año": 2018,
+    "Mes": "Agosto",
+    "Valor": "-0,169"
+  },
+  {
+    "Año": 2018,
+    "Mes": "Julio",
+    "Valor": "-0,18"
+  },
+  {
+    "Año": 2018,
+    "Mes": "Junio",
+    "Valor": "-0,182"
+  },
+  {
+    "Año": 2018,
+    "Mes": "Mayo",
+    "Valor": "-0,188"
+  },
+  {
+    "Año": 2018,
+    "Mes": "Abril",
+    "Valor": "-0,19"
+  },
+  {
+    "Año": 2018,
+    "Mes": "Marzo",
+    "Valor": "-0,191"
+  },
+  {
+    "Año": 2018,
+    "Mes": "Febrero",
+    "Valor": "-0,191"
+  },
+  {
+    "Año": 2018,
+    "Mes": "Enero",
+    "Valor": "-0,189"
+  },
+  {
+    "Año": 2017,
+    "Mes": "Diciembre",
+    "Valor": "-0,19"
+  },
+  {
+    "Año": 2017,
+    "Mes": "Noviembre",
+    "Valor": "-0,189"
+  },
+  {
+    "Año": 2017,
+    "Mes": "Octubre",
+    "Valor": "-0,18"
+  },
+  {
+    "Año": 2017,
+    "Mes": "Septiembre",
+    "Valor": "-0,168"
+  },
+  {
+    "Año": 2017,
+    "Mes": "Agosto",
+    "Valor": "-0,156"
+  },
+  {
+    "Año": 2017,
+    "Mes": "Julio",
+    "Valor": "-0,154"
+  },
+  {
+    "Año": 2017,
+    "Mes": "Junio",
+    "Valor": "-0,149"
+  },
+  {
+    "Año": 2017,
+    "Mes": "Mayo",
+    "Valor": "-0,127"
+  },
+  {
+    "Año": 2017,
+    "Mes": "Abril",
+    "Valor": "-0,119"
+  },
+  {
+    "Año": 2017,
+    "Mes": "Marzo",
+    "Valor": "-0,11"
+  },
+  {
+    "Año": 2017,
+    "Mes": "Febrero",
+    "Valor": "-0,106"
+  },
+  {
+    "Año": 2017,
+    "Mes": "Enero",
+    "Valor": "-0,095"
+  },
+  {
+    "Año": 2016,
+    "Mes": "Diciembre",
+    "Valor": "-0,08"
+  },
+  {
+    "Año": 2016,
+    "Mes": "Noviembre",
+    "Valor": "-0,074"
+  },
+  {
+    "Año": 2016,
+    "Mes": "Octubre",
+    "Valor": "-0,069"
+  },
+  {
+    "Año": 2016,
+    "Mes": "Septiembre",
+    "Valor": "-0,057"
+  },
+  {
+    "Año": 2016,
+    "Mes": "Agosto",
+    "Valor": "-0,048"
+  },
+  {
+    "Año": 2016,
+    "Mes": "Julio",
+    "Valor": "-0,056"
+  },
+  {
+    "Año": 2016,
+    "Mes": "Junio",
+    "Valor": "-0,028"
+  },
+  {
+    "Año": 2016,
+    "Mes": "Mayo",
+    "Valor": "-0,013"
+  },
+  {
+    "Año": 2016,
+    "Mes": "Abril",
+    "Valor": "-0,01"
+  },
+  {
+    "Año": 2016,
+    "Mes": "Marzo",
+    "Valor": "-0,012"
+  },
+  {
+    "Año": 2016,
+    "Mes": "Febrero",
+    "Valor": "-0,008"
+  },
+  {
+    "Año": 2016,
+    "Mes": "Enero",
+    "Valor": "0,042"
+  },
+  {
+    "Año": 2015,
+    "Mes": "Diciembre",
+    "Valor": "0,059"
+  },
+  {
+    "Año": 2015,
+    "Mes": "Noviembre",
+    "Valor": "0,079"
+  },
+  {
+    "Año": 2015,
+    "Mes": "Octubre",
+    "Valor": "0,128"
+  },
+  {
+    "Año": 2015,
+    "Mes": "Septiembre",
+    "Valor": "0,154"
+  },
+  {
+    "Año": 2015,
+    "Mes": "Agosto",
+    "Valor": "0,161"
+  },
+  {
+    "Año": 2015,
+    "Mes": "Julio",
+    "Valor": "0,167"
+  },
+  {
+    "Año": 2015,
+    "Mes": "Junio",
+    "Valor": "0,163"
+  },
+  {
+    "Año": 2015,
+    "Mes": "Mayo",
+    "Valor": "0,165"
+  },
+  {
+    "Año": 2015,
+    "Mes": "Abril",
+    "Valor": "0,18"
+  },
+  {
+    "Año": 2015,
+    "Mes": "Marzo",
+    "Valor": "0,212"
+  },
+  {
+    "Año": 2015,
+    "Mes": "Febrero",
+    "Valor": "0,255"
+  },
+  {
+    "Año": 2015,
+    "Mes": "Enero",
+    "Valor": "0,298"
+  },
+  {
+    "Año": 2014,
+    "Mes": "Diciembre",
+    "Valor": "0,329"
+  },
+  {
+    "Año": 2014,
+    "Mes": "Noviembre",
+    "Valor": "0,335"
+  },
+  {
+    "Año": 2014,
+    "Mes": "Octubre",
+    "Valor": "0,338"
+  },
+  {
+    "Año": 2014,
+    "Mes": "Septiembre",
+    "Valor": "0,362"
+  },
+  {
+    "Año": 2014,
+    "Mes": "Agosto",
+    "Valor": "0,469"
+  },
+  {
+    "Año": 2014,
+    "Mes": "Julio",
+    "Valor": "0,488"
+  },
+  {
+    "Año": 2014,
+    "Mes": "Junio",
+    "Valor": "0,513"
+  },
+  {
+    "Año": 2014,
+    "Mes": "Mayo",
+    "Valor": "0,592"
+  },
+  {
+    "Año": 2014,
+    "Mes": "Abril",
+    "Valor": "0,604"
+  },
+  {
+    "Año": 2014,
+    "Mes": "Marzo",
+    "Valor": "0,577"
+  },
+  {
+    "Año": 2014,
+    "Mes": "Febrero",
+    "Valor": "0,549"
+  },
+  {
+    "Año": 2014,
+    "Mes": "Enero",
+    "Valor": "0,562"
+  },
+  {
+    "Año": 2013,
+    "Mes": "Diciembre",
+    "Valor": "0,543"
+  },
+  {
+    "Año": 2013,
+    "Mes": "Noviembre",
+    "Valor": "0,506"
+  },
+  {
+    "Año": 2013,
+    "Mes": "Octubre",
+    "Valor": "0,541"
+  },
+  {
+    "Año": 2013,
+    "Mes": "Septiembre",
+    "Valor": "0,543"
+  },
+  {
+    "Año": 2013,
+    "Mes": "Agosto",
+    "Valor": "0,542"
+  },
+  {
+    "Año": 2013,
+    "Mes": "Julio",
+    "Valor": "0,525"
+  },
+  {
+    "Año": 2013,
+    "Mes": "Junio",
+    "Valor": "0,507"
+  },
+  {
+    "Año": 2013,
+    "Mes": "Mayo",
+    "Valor": "0,484"
+  },
+  {
+    "Año": 2013,
+    "Mes": "Abril",
+    "Valor": "0,528"
+  },
+  {
+    "Año": 2013,
+    "Mes": "Marzo",
+    "Valor": "0,545"
+  },
+  {
+    "Año": 2013,
+    "Mes": "Febrero",
+    "Valor": "0,594"
+  },
+  {
+    "Año": 2013,
+    "Mes": "Enero",
+    "Valor": "0,575"
+  },
+  {
+    "Año": 2012,
+    "Mes": "Diciembre",
+    "Valor": "0,549"
+  },
+  {
+    "Año": 2012,
+    "Mes": "Noviembre",
+    "Valor": "0,588"
+  },
+  {
+    "Año": 2012,
+    "Mes": "Octubre",
+    "Valor": "0,65"
+  },
+  {
+    "Año": 2012,
+    "Mes": "Septiembre",
+    "Valor": "0,74"
+  },
+  {
+    "Año": 2012,
+    "Mes": "Agosto",
+    "Valor": "0,877"
+  },
+  {
+    "Año": 2012,
+    "Mes": "Julio",
+    "Valor": "1,061"
+  },
+  {
+    "Año": 2012,
+    "Mes": "Junio",
+    "Valor": "1,219"
+  },
+  {
+    "Año": 2012,
+    "Mes": "Mayo",
+    "Valor": "1,266"
+  },
+  {
+    "Año": 2012,
+    "Mes": "Abril",
+    "Valor": "1,368"
+  },
+  {
+    "Año": 2012,
+    "Mes": "Marzo",
+    "Valor": "1,499"
+  },
+  {
+    "Año": 2012,
+    "Mes": "Febrero",
+    "Valor": "1,678"
+  },
+  {
+    "Año": 2012,
+    "Mes": "Enero",
+    "Valor": "1,837"
+  },
+  {
+    "Año": 2011,
+    "Mes": "Diciembre",
+    "Valor": "2,004"
+  },
+  {
+    "Año": 2011,
+    "Mes": "Noviembre",
+    "Valor": "2,044"
+  },
+  {
+    "Año": 2011,
+    "Mes": "Octubre",
+    "Valor": "2,11"
+  },
+  {
+    "Año": 2011,
+    "Mes": "Septiembre",
+    "Valor": "2,067"
+  },
+  {
+    "Año": 2011,
+    "Mes": "Agosto",
+    "Valor": "2,097"
+  },
+  {
+    "Año": 2011,
+    "Mes": "Julio",
+    "Valor": "2,183"
+  },
+  {
+    "Año": 2011,
+    "Mes": "Junio",
+    "Valor": "2,144"
+  },
+  {
+    "Año": 2011,
+    "Mes": "Mayo",
+    "Valor": "2,147"
+  },
+  {
+    "Año": 2011,
+    "Mes": "Abril",
+    "Valor": "2,086"
+  },
+  {
+    "Año": 2011,
+    "Mes": "Marzo",
+    "Valor": "1,924"
+  },
+  {
+    "Año": 2011,
+    "Mes": "Febrero",
+    "Valor": "1,714"
+  },
+  {
+    "Año": 2011,
+    "Mes": "Enero",
+    "Valor": "1,55"
+  },
+  {
+    "Año": 2010,
+    "Mes": "Diciembre",
+    "Valor": "1,526"
+  },
+  {
+    "Año": 2010,
+    "Mes": "Noviembre",
+    "Valor": "1,541"
+  },
+  {
+    "Año": 2010,
+    "Mes": "Octubre",
+    "Valor": "1,495"
+  },
+  {
+    "Año": 2010,
+    "Mes": "Septiembre",
+    "Valor": "1,421"
+  },
+  {
+    "Año": 2010,
+    "Mes": "Agosto",
+    "Valor": "1,421"
+  },
+  {
+    "Año": 2010,
+    "Mes": "Julio",
+    "Valor": "1,373"
+  },
+  {
+    "Año": 2010,
+    "Mes": "Junio",
+    "Valor": "1,281"
+  },
+  {
+    "Año": 2010,
+    "Mes": "Mayo",
+    "Valor": "1,249"
+  },
+  {
+    "Año": 2010,
+    "Mes": "Abril",
+    "Valor": "1,225"
+  },
+  {
+    "Año": 2010,
+    "Mes": "Marzo",
+    "Valor": "1,215"
+  },
+  {
+    "Año": 2010,
+    "Mes": "Febrero",
+    "Valor": "1,225"
+  },
+  {
+    "Año": 2010,
+    "Mes": "Enero",
+    "Valor": "1,232"
+  },
+  {
+    "Año": 2009,
+    "Mes": "Diciembre",
+    "Valor": "1,242"
+  },
+  {
+    "Año": 2009,
+    "Mes": "Noviembre",
+    "Valor": "1,231"
+  },
+  {
+    "Año": 2009,
+    "Mes": "Octubre",
+    "Valor": "1,243"
+  },
+  {
+    "Año": 2009,
+    "Mes": "Septiembre",
+    "Valor": "1,261"
+  },
+  {
+    "Año": 2009,
+    "Mes": "Agosto",
+    "Valor": "1,334"
+  },
+  {
+    "Año": 2009,
+    "Mes": "Julio",
+    "Valor": "1,412"
+  },
+  {
+    "Año": 2009,
+    "Mes": "Junio",
+    "Valor": "1,611"
+  },
+  {
+    "Año": 2009,
+    "Mes": "Mayo",
+    "Valor": "1,644"
+  },
+  {
+    "Año": 2009,
+    "Mes": "Abril",
+    "Valor": "1,771"
+  },
+  {
+    "Año": 2009,
+    "Mes": "Marzo",
+    "Valor": "1,909"
+  },
+  {
+    "Año": 2009,
+    "Mes": "Febrero",
+    "Valor": "2,135"
+  },
+  {
+    "Año": 2009,
+    "Mes": "Enero",
+    "Valor": "2,622"
+  },
+  {
+    "Año": 2008,
+    "Mes": "Diciembre",
+    "Valor": "3,452"
+  },
+  {
+    "Año": 2008,
+    "Mes": "Noviembre",
+    "Valor": "4,35"
+  },
+  {
+    "Año": 2008,
+    "Mes": "Octubre",
+    "Valor": "5,248"
+  },
+  {
+    "Año": 2008,
+    "Mes": "Septiembre",
+    "Valor": "5,384"
+  },
+  {
+    "Año": 2008,
+    "Mes": "Agosto",
+    "Valor": "5,323"
+  },
+  {
+    "Año": 2008,
+    "Mes": "Julio",
+    "Valor": "5,393"
+  },
+  {
+    "Año": 2008,
+    "Mes": "Junio",
+    "Valor": "5,361"
+  },
+  {
+    "Año": 2008,
+    "Mes": "Mayo",
+    "Valor": "4,994"
+  },
+  {
+    "Año": 2008,
+    "Mes": "Abril",
+    "Valor": "4,82"
+  },
+  {
+    "Año": 2008,
+    "Mes": "Marzo",
+    "Valor": "4,59"
+  },
+  {
+    "Año": 2008,
+    "Mes": "Febrero",
+    "Valor": "4,349"
+  },
+  {
+    "Año": 2008,
+    "Mes": "Enero",
+    "Valor": "4,498"
+  },
+  {
+    "Año": 2007,
+    "Mes": "Diciembre",
+    "Valor": "4,793"
+  },
+  {
+    "Año": 2007,
+    "Mes": "Noviembre",
+    "Valor": "4,607"
+  },
+  {
+    "Año": 2007,
+    "Mes": "Octubre",
+    "Valor": "4,647"
+  },
+  {
+    "Año": 2007,
+    "Mes": "Septiembre",
+    "Valor": "4,725"
+  },
+  {
+    "Año": 2007,
+    "Mes": "Agosto",
+    "Valor": "4,666"
+  },
+  {
+    "Año": 2007,
+    "Mes": "Julio",
+    "Valor": "4,564"
+  },
+  {
+    "Año": 2007,
+    "Mes": "Junio",
+    "Valor": "4,506"
+  },
+  {
+    "Año": 2007,
+    "Mes": "Mayo",
+    "Valor": "4,373"
+  },
+  {
+    "Año": 2007,
+    "Mes": "Abril",
+    "Valor": "4,253"
+  },
+  {
+    "Año": 2007,
+    "Mes": "Marzo",
+    "Valor": "4,106"
+  },
+  {
+    "Año": 2007,
+    "Mes": "Febrero",
+    "Valor": "4,094"
+  },
+  {
+    "Año": 2007,
+    "Mes": "Enero",
+    "Valor": "4,064"
+  },
+  {
+    "Año": 2006,
+    "Mes": "Diciembre",
+    "Valor": "3,921"
+  },
+  {
+    "Año": 2006,
+    "Mes": "Noviembre",
+    "Valor": "3,864"
+  },
+  {
+    "Año": 2006,
+    "Mes": "Octubre",
+    "Valor": "3,799"
+  },
+  {
+    "Año": 2006,
+    "Mes": "Septiembre",
+    "Valor": "3,715"
+  },
+  {
+    "Año": 2006,
+    "Mes": "Agosto",
+    "Valor": "3,615"
+  },
+  {
+    "Año": 2006,
+    "Mes": "Julio",
+    "Valor": "3,539"
+  },
+  {
+    "Año": 2006,
+    "Mes": "Junio",
+    "Valor": "3,401"
+  },
+  {
+    "Año": 2006,
+    "Mes": "Mayo",
+    "Valor": "3,308"
+  },
+  {
+    "Año": 2006,
+    "Mes": "Abril",
+    "Valor": "3,221"
+  },
+  {
+    "Año": 2006,
+    "Mes": "Marzo",
+    "Valor": "3,105"
+  },
+  {
+    "Año": 2006,
+    "Mes": "Febrero",
+    "Valor": "2,914"
+  },
+  {
+    "Año": 2006,
+    "Mes": "Enero",
+    "Valor": "2,834"
+  },
+  {
+    "Año": 2005,
+    "Mes": "Diciembre",
+    "Valor": "2,783"
+  },
+  {
+    "Año": 2005,
+    "Mes": "Noviembre",
+    "Valor": "2,684"
+  },
+  {
+    "Año": 2005,
+    "Mes": "Octubre",
+    "Valor": "2,414"
+  },
+  {
+    "Año": 2005,
+    "Mes": "Septiembre",
+    "Valor": "2,22"
+  },
+  {
+    "Año": 2005,
+    "Mes": "Agosto",
+    "Valor": "2,223"
+  },
+  {
+    "Año": 2005,
+    "Mes": "Julio",
+    "Valor": "2,168"
+  },
+  {
+    "Año": 2005,
+    "Mes": "Junio",
+    "Valor": "2,103"
+  },
+  {
+    "Año": 2005,
+    "Mes": "Mayo",
+    "Valor": "2,193"
+  },
+  {
+    "Año": 2005,
+    "Mes": "Abril",
+    "Valor": "2,265"
+  },
+  {
+    "Año": 2005,
+    "Mes": "Marzo",
+    "Valor": "2,335"
+  },
+  {
+    "Año": 2005,
+    "Mes": "Febrero",
+    "Valor": "2,31"
+  },
+  {
+    "Año": 2005,
+    "Mes": "Enero",
+    "Valor": "2,312"
+  },
+  {
+    "Año": 2004,
+    "Mes": "Diciembre",
+    "Valor": "2,301"
+  },
+  {
+    "Año": 2004,
+    "Mes": "Noviembre",
+    "Valor": "2,328"
+  },
+  {
+    "Año": 2004,
+    "Mes": "Octubre",
+    "Valor": "2,316"
+  },
+  {
+    "Año": 2004,
+    "Mes": "Septiembre",
+    "Valor": "2,377"
+  },
+  {
+    "Año": 2004,
+    "Mes": "Agosto",
+    "Valor": "2,302"
+  },
+  {
+    "Año": 2004,
+    "Mes": "Julio",
+    "Valor": "2,361"
+  },
+  {
+    "Año": 2004,
+    "Mes": "Junio",
+    "Valor": "2,404"
+  },
+  {
+    "Año": 2004,
+    "Mes": "Mayo",
+    "Valor": "2,297"
+  },
+  {
+    "Año": 2004,
+    "Mes": "Abril",
+    "Valor": "2,163"
+  },
+  {
+    "Año": 2004,
+    "Mes": "Marzo",
+    "Valor": "2,055"
+  },
+  {
+    "Año": 2004,
+    "Mes": "Febrero",
+    "Valor": "2,163"
+  },
+  {
+    "Año": 2004,
+    "Mes": "Enero",
+    "Valor": "2,216"
+  },
+  {
+    "Año": 2003,
+    "Mes": "Diciembre",
+    "Valor": "2,381"
+  },
+  {
+    "Año": 2003,
+    "Mes": "Noviembre",
+    "Valor": "2,41"
+  },
+  {
+    "Año": 2003,
+    "Mes": "Octubre",
+    "Valor": "2,303"
+  },
+  {
+    "Año": 2003,
+    "Mes": "Septiembre",
+    "Valor": "2,258"
+  },
+  {
+    "Año": 2003,
+    "Mes": "Agosto",
+    "Valor": "2,279"
+  },
+  {
+    "Año": 2003,
+    "Mes": "Julio",
+    "Valor": "2,076"
+  },
+  {
+    "Año": 2003,
+    "Mes": "Junio",
+    "Valor": "2,014"
+  },
+  {
+    "Año": 2003,
+    "Mes": "Mayo",
+    "Valor": "2,252"
+  },
+  {
+    "Año": 2003,
+    "Mes": "Abril",
+    "Valor": "2,447"
+  },
+  {
+    "Año": 2003,
+    "Mes": "Marzo",
+    "Valor": "2,411"
+  },
+  {
+    "Año": 2003,
+    "Mes": "Febrero",
+    "Valor": "2,504"
+  },
+  {
+    "Año": 2003,
+    "Mes": "Enero",
+    "Valor": "2,705"
+  },
+  {
+    "Año": 2002,
+    "Mes": "Diciembre",
+    "Valor": "2,872"
+  },
+  {
+    "Año": 2002,
+    "Mes": "Noviembre",
+    "Valor": "3,017"
+  },
+  {
+    "Año": 2002,
+    "Mes": "Octubre",
+    "Valor": "3,126"
+  },
+  {
+    "Año": 2002,
+    "Mes": "Septiembre",
+    "Valor": "3,236"
+  },
+  {
+    "Año": 2002,
+    "Mes": "Agosto",
+    "Valor": "3,44"
+  },
+  {
+    "Año": 2002,
+    "Mes": "Julio",
+    "Valor": "3,645"
+  },
+  {
+    "Año": 2002,
+    "Mes": "Junio",
+    "Valor": "3,869"
+  },
+  {
+    "Año": 2002,
+    "Mes": "Mayo",
+    "Valor": "3,963"
+  },
+  {
+    "Año": 2002,
+    "Mes": "Abril",
+    "Valor": "3,86"
+  },
+  {
+    "Año": 2002,
+    "Mes": "Marzo",
+    "Valor": "3,816"
+  },
+  {
+    "Año": 2002,
+    "Mes": "Febrero",
+    "Valor": "3,594"
+  },
+  {
+    "Año": 2002,
+    "Mes": "Enero",
+    "Valor": "3,483"
+  },
+  {
+    "Año": 2001,
+    "Mes": "Diciembre",
+    "Valor": "3,298"
+  },
+  {
+    "Año": 2001,
+    "Mes": "Noviembre",
+    "Valor": "3,198"
+  },
+  {
+    "Año": 2001,
+    "Mes": "Octubre",
+    "Valor": "3,369"
+  },
+  {
+    "Año": 2001,
+    "Mes": "Septiembre",
+    "Valor": "3,77"
+  },
+  {
+    "Año": 2001,
+    "Mes": "Agosto",
+    "Valor": "4,108"
+  },
+  {
+    "Año": 2001,
+    "Mes": "Julio",
+    "Valor": "4,311"
+  },
+  {
+    "Año": 2001,
+    "Mes": "Junio",
+    "Valor": "4,313"
+  },
+  {
+    "Año": 2001,
+    "Mes": "Mayo",
+    "Valor": "4,521"
+  },
+  {
+    "Año": 2001,
+    "Mes": "Abril",
+    "Valor": "4,481"
+  },
+  {
+    "Año": 2001,
+    "Mes": "Marzo",
+    "Valor": "4,471"
+  },
+  {
+    "Año": 2001,
+    "Mes": "Febrero",
+    "Valor": "4,591"
+  },
+  {
+    "Año": 2001,
+    "Mes": "Enero",
+    "Valor": "4,574"
+  },
+  {
+    "Año": 2000,
+    "Mes": "Diciembre",
+    "Valor": "4,881"
+  },
+  {
+    "Año": 2000,
+    "Mes": "Noviembre",
+    "Valor": "5,193"
+  },
+  {
+    "Año": 2000,
+    "Mes": "Octubre",
+    "Valor": "5,218"
+  },
+  {
+    "Año": 2000,
+    "Mes": "Septiembre",
+    "Valor": "5,219"
+  },
+  {
+    "Año": 2000,
+    "Mes": "Agosto",
+    "Valor": "5,248"
+  },
+  {
+    "Año": 2000,
+    "Mes": "Julio",
+    "Valor": "5,105"
+  },
+  {
+    "Año": 2000,
+    "Mes": "Junio",
+    "Valor": "4,965"
+  },
+  {
+    "Año": 2000,
+    "Mes": "Mayo",
+    "Valor": "4,849"
+  },
+  {
+    "Año": 2000,
+    "Mes": "Abril",
+    "Valor": "4,365"
+  },
+  {
+    "Año": 2000,
+    "Mes": "Marzo",
+    "Valor": "4,268"
+  },
+  {
+    "Año": 2000,
+    "Mes": "Febrero",
+    "Valor": "4,111"
+  },
+  {
+    "Año": 2000,
+    "Mes": "Enero",
+    "Valor": "3,95"
+  },
+  {
+    "Año": 1999,
+    "Mes": "Diciembre",
+    "Valor": "3,826"
+  },
+  {
+    "Año": 1999,
+    "Mes": "Noviembre",
+    "Valor": "3,689"
+  },
+  {
+    "Año": 1999,
+    "Mes": "Octubre",
+    "Valor": "3,684"
+  },
+  {
+    "Año": 1999,
+    "Mes": "Septiembre",
+    "Valor": "3,301"
+  },
+  {
+    "Año": 1999,
+    "Mes": "Agosto",
+    "Valor": "3,237"
+  },
+  {
+    "Año": 1999,
+    "Mes": "Julio",
+    "Valor": "3,03"
+  },
+  {
+    "Año": 1999,
+    "Mes": "Junio",
+    "Valor": "2,836"
+  },
+  {
+    "Año": 1999,
+    "Mes": "Mayo",
+    "Valor": "2,683"
+  },
+  {
+    "Año": 1999,
+    "Mes": "Abril",
+    "Valor": "2,756"
+  },
+  {
+    "Año": 1999,
+    "Mes": "Marzo",
+    "Valor": "3,046"
+  },
+  {
+    "Año": 1999,
+    "Mes": "Febrero",
+    "Valor": "3,03"
+  },
+  {
+    "Año": 1999,
+    "Mes": "Enero",
+    "Valor": "3,062"
+  }
+]

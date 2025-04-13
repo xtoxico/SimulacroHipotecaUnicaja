@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Simulador Hipoteca</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <h1>Simulador Hipoteca Unicaja (prestamo interes variable Euribor + Diferencial)</h1>
+
+  <section id="parametros">
+    <h2>Parámetros iniciales</h2>
+    <label>Capital inicial: <input type="number" id="capitalInicial" value=""></label>
+    <label>Tipo de interés fijo (primer año): <input type="number" step="0.01" id="interesFijo" value="2.95"></label>
+    <label>Diferencial fijo (años variables): <input type="number" step="0.01" id="diferencial" value="1.95"></label>
+    <label>Mes de inicio del préstamo:
+      <select id="mesInicio">
+        <option value="0">Enero</option>
+        <option value="1">Febrero</option>
+        <option value="2">Marzo</option>
+        <option value="3">Abril</option>
+        <option value="4">Mayo</option>
+        <option value="5" selected>Junio</option>
+        <option value="6">Julio</option>
+        <option value="7">Agosto</option>
+        <option value="8">Septiembre</option>
+        <option value="9">Octubre</option>
+        <option value="10">Noviembre</option>
+        <option value="11">Diciembre</option>
+      </select>
+    </label>
+    <button onclick="inicializarPeriodos()">Iniciar simulación</button>
+  </section>
+
+  <section id="periodos">
+    <!-- Generado dinámicamente -->
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>

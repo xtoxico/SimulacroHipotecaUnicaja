@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    background: #f4f4f4;
+  }
+  h1, h2, h3 {
+    color: #333;
+  }
+  label {
+    display: block;
+    margin: 5px 0;
+  }
+  table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 4px;
+    border: 1px solid #ccc;
+    text-align: right;
+  }
+  th {
+    background: #eee;
+  }
+  .year-block {
+    margin-bottom: 40px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  .resumen {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  hr {
+    margin: 20px 0;
+    border: 0;
+    border-top: 1px solid #999;
+  }
+  
+
+  .tabla-cuotas {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  .tabla-cuotas th, .tabla-cuotas td {
+    border: 1px solid #ccc;
+    padding: 6px;
+    text-align: right;
+  }
+  .tabla-cuotas th {
+    background-color: #f5f5f5;
+    font-weight: bold;
+  }
+  
