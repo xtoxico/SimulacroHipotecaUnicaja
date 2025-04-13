@@ -1,5 +1,5 @@
-const AÑOS_INICIO = 2012;
-const AÑOS_FIN = 2042;
+let AÑOS_INICIO = 2012;
+let AÑOS_FIN = 2042;
 const MESES = 12;
 const NOMBRES_MESES = ['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
 
@@ -21,7 +21,8 @@ fetch("euribor.json")
 function inicializarPeriodos() {
   periodos = [];
   document.getElementById("periodos").innerHTML = "";
-
+  AÑOS_INICIO = parseInt(document.getElementById('añoInicio').value);
+  AÑOS_FIN = parseInt(document.getElementById('añoFinal').value);
   const capitalInicial = parseFloat(document.getElementById('capitalInicial').value);
   const interesFijo = parseFloat(document.getElementById('interesFijo').value);
   const diferencial = parseFloat(document.getElementById('diferencial').value);
